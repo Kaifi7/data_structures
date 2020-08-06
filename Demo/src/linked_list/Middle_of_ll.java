@@ -1,5 +1,6 @@
 package linked_list;
 
+// addding new comment . find middle using two pointers
 public class Middle_of_ll {
 
 	static class Node{
